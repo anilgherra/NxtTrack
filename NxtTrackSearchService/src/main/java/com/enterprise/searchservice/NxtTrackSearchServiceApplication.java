@@ -1,4 +1,4 @@
-package com.example.nxttracksearchservice;
+package com.enterprise.searchservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

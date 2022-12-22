@@ -1,4 +1,4 @@
-package com.example.epcisfileservice;
+package com.enterprise.epcisfileservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

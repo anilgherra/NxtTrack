@@ -1,4 +1,4 @@
-package com.example.masterdataservice;
+package com.enterprise.masterdataservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

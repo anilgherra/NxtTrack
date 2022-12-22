@@ -1,4 +1,4 @@
-package com.example.validationservice;
+package com.enterprise.validationservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,10 +1,10 @@
-package com.example.validationservice;
+package com.enterprise.masterdataservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ValidationServiceApplicationTests {
+class MasterDataServiceApplicationTests {
 
     @Test
     void contextLoads() {

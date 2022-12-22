@@ -1,10 +1,10 @@
-package com.example.nxttracksearchservice;
+package com.enterprise.validationservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NxtTrackSearchServiceApplicationTests {
+class ValidationServiceApplicationTests {
 
     @Test
     void contextLoads() {

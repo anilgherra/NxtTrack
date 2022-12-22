@@ -1,4 +1,4 @@
-package com.example.eventcreationservice;
+package com.enterprise.eventcreationservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
